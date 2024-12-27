@@ -2,7 +2,7 @@
 Temporary mail access 
 
 # Command
-
+```bash
 pkg update 
 
 pkg upgarde
@@ -16,7 +16,7 @@ cd Mail
 chmod +x *
 
 python3 ACCESS.py
-
+```
 
 # note 
 
